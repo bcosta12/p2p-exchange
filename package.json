@@ -1,0 +1,22 @@
+{
+  "name": "p2p-exchange",
+  "version": "1.0.0",
+  "description": "p2p exchange system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcosta12/p2p-exchange.git"
+  },
+  "author": "bcosta12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcosta12/p2p-exchange/issues"
+  },
+  "homepage": "https://github.com/bcosta12/p2p-exchange#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
